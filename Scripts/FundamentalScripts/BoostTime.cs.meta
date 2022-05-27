@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6e5076c2bf421d43a6e8de6ea9732f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShieldTimeText: {instanceID: 0}
+  - FastShootTimeText: {instanceID: 0}
+  - StarTimeText: {instanceID: 0}
+  - TripleShootText: {instanceID: 0}
+  - MegaShootText: {instanceID: 0}
+  - BulletPrefab: {fileID: 8430711512433237601, guid: b8f18bbf42075ad4b8640ac2e213aa38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
